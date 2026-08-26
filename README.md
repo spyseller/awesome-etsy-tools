@@ -21,6 +21,7 @@ It is intentionally curated and continuously evolving, so contributions are welc
 - [Print-on-Demand and Fulfillment](#print-on-demand-and-fulfillment)
 - [Inventory, Production, and Costing](#inventory-production-and-costing)
 - [Pricing and Profitability](#pricing-and-profitability)
+- [Invoicing and Bookkeeping](#invoicing-and-bookkeeping)
 - [Shipping Labels and Shipping Partners](#shipping-labels-and-shipping-partners)
 - [Cross-Listing and Multi-Channel](#cross-listing-and-multi-channel)
 - [Design and Images](#design-and-images)
@@ -73,6 +74,10 @@ It is intentionally curated and continuously evolving, so contributions are welc
 ## Pricing and Profitability
 
 - [SpySeller](https://spyseller.com/) — Fee and profitability calculators for Etsy sellers.
+
+## Invoicing and Bookkeeping
+
+- [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) — Free browser invoice and receipt PDF generator, no account. [Commercial EUR 249 one-time](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-etsy-tools-v1): white-label PDFs, 6 templates, CSV batch CLI.
 
 ## Shipping Labels and Shipping Partners
 

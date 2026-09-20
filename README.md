@@ -72,6 +72,7 @@ It is intentionally curated and continuously evolving, so contributions are welc
 
 ## Pricing and Profitability
 
+- [ReversePrice](https://etsy-reverse-fee.online/) — Free browser-based reverse fee calculator that works from target profit to a minimum Etsy list price, with UK and US fee presets.
 - [SpySeller](https://spyseller.com/) — Fee and profitability calculators for Etsy sellers.
 
 ## Shipping Labels and Shipping Partners

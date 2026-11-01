@@ -58,6 +58,7 @@ It is intentionally curated and continuously evolving, so contributions are welc
 
 - [Vela](https://getvela.com/) — Bulk edit, copy, and manage Etsy listings in one place.
 - [Vela (Etsy Apps listing)](https://etsyapps.com/vela/) — Vela listing in the Etsy Apps directory.
+- [EverAlice AI](https://everalice.studio/) — AI listing studio that turns one artwork or idea into an Etsy-ready listing: title, 13 tags and description, studio mockups, print files in every common ratio, a listing video and a buyer delivery ZIP. Includes bulk mode (up to 100 listings) and copy for Shopify, Amazon and other marketplaces; free preview without signup.
 
 ## Print-on-Demand and Fulfillment
 

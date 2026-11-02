@@ -72,6 +72,7 @@ It is intentionally curated and continuously evolving, so contributions are welc
 
 ## Pricing and Profitability
 
+- [SellerMath](https://tools.kindus.cn/tools/etsy-discount-sales-lift-calculator.html) — Free browser-based Etsy discount and sales-lift calculator with country-specific payment processing and no sign-up.
 - [SpySeller](https://spyseller.com/) — Fee and profitability calculators for Etsy sellers.
 
 ## Shipping Labels and Shipping Partners

@@ -73,6 +73,7 @@ It is intentionally curated and continuously evolving, so contributions are welc
 ## Pricing and Profitability
 
 - [SpySeller](https://spyseller.com/) — Fee and profitability calculators for Etsy sellers.
+- [Seller Profit & Break-Even Calculator](https://yougkxm.github.io/) — Free, no-signup calculator for Etsy, Gumroad, and Shopify fees, returned orders, and break-even pricing.
 
 ## Shipping Labels and Shipping Partners
 
@@ -91,3 +92,4 @@ It is intentionally curated and continuously evolving, so contributions are welc
 ## Design and Images
 
 - [Etsy Image Requirements](https://help.etsy.com/hc/en-us/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop) — Official sizing and quality guidance for listing photos.
+- [Listing & Mockup Frame Kit](https://yougkxm.github.io/listing-kit/) — Free browser tool that exports one product photo at Etsy, Gumroad, Pinterest and other listing sizes with a safe-zone guide.

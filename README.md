@@ -33,6 +33,8 @@ It is intentionally curated and continuously evolving, so contributions are welc
 - [Offsite Ads](https://help.etsy.com/hc/en-us/articles/360000338367-How-Etsy-s-Offsite-Ads-Work) — Etsy-run ads that promote your listings off Etsy.
 - [Etsy Shipping Labels](https://help.etsy.com/hc/en-us/articles/360001967188-How-to-Purchase-Shipping-Labels-on-Etsy) — Buy and print shipping labels directly in Etsy.
 - [Pattern by Etsy](https://www.etsy.com/pattern) — Standalone website builder that syncs with your Etsy listings.
+- [Etsy Search Scraper](https://apify.com/publicrecords/etsy-search-scraper) — Etsy search results by keyword: price, rating, reviews, Bestseller badge, ad flag, rank (Apify Actor, API + MCP).
+- [Etsy Shop Daily Sales](https://apify.com/publicrecords/etsy-shop-velocity) — Daily, 7-day and 28-day sales for Etsy shops from each shop's public sales counter (Apify Actor, API + MCP).
 
 ## Apps and Developer Platform
 
